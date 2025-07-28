@@ -15,13 +15,13 @@ npm start
 ### 3. Build the project on a physical device or emulator
 npm run android
 
-![Demonstration](docs/Demo.gif)
+<img src="docs/Demo.gif" width="500"/>
 
-![Initial screen](docs/2.png)
+<img src="docs/2.png" width="400"/>
 
-![](docs/1.png)
+<img src="docs/1.png" width="400"/>
 
-![Services screen](docs/5.png)
+<img src="docs/5.png" width="400"/>
 
 
 
