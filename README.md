@@ -1,12 +1,29 @@
+# 📱 BLE Scanner App
 
-#Ilarco app
-#This app is capable of scan ble devices and connect with them
+This application is able to scan BLE (Bluetooth Low Energy) devices, show what services the devices have and connect to them.
 
-# Use npm to start the server
+---
+
+## 🚀 How to Run the Project
+
+### 1. Install dependencies
+npm install
+
+### 2. Start the Metro server
 npm start
 
-
-# Then build the project inside one device (physical phone or androidStudio)
+### 3. Build the project on a physical device or emulator
 npm run android
 
-# make sure to use your ip address followed with the port 8001 (192.168.1.5:8081) to connect the app to your physical device
+
+![Initial screen](docs/2.png)
+
+![](docs/1.png)
+
+![Services screen](docs/2.png)
+
+
+![Demonstration](docs/Demo.gif)
+
+
+
